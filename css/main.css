@@ -101,6 +101,7 @@ main .main-input input {
   outline: none;
   background-color: transparent;
   color: #e8eaed;
+  padding-left: .8rem;
 }
 
 main .main-input-container:hover {
